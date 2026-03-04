@@ -5,6 +5,10 @@
 - Visual Studio Code
 
 ---
+![Vista previa del proyecto](vista.gif)
+
+
+---
 
 ## 🚀 Setup desde cero (comandos en terminal)
 
