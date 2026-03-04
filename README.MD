@@ -5,7 +5,7 @@
 - Visual Studio Code
 
 ---
-![Vista previa del proyecto](vista.gif)
+![Vista previa del proyecto](analisis.gif)
 
 
 ---
